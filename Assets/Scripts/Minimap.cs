@@ -2,6 +2,8 @@ using UnityEngine;
 
 public class Minimap : MonoBehaviour
 {
+    [Header("Rotation du modèle 3D")]
+    [Tooltip("La valeur de rotation en axe Y est égale à la caméra principale")]
     public Transform player;
     void LateUpdate()
     {

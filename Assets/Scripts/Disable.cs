@@ -4,13 +4,15 @@ using UnityEngine;
 
 public class Disable : MonoBehaviour
 {
-    public GameObject[] boule;
+    [Header("List")]
+    [Tooltip("On Liste les GameObjects qui a pour tag 'boule' au lancement")]
+    public GameObject[] hotspots;
     void Start()
     {
-        boule = GameObject.FindGameObjectsWithTag("boule");
-        for (int i = 0; i < boule.Length; i++)
+        hotspots = GameObject.FindGameObjectsWithTag("boule");
+        for (int i = 0; i < hotspots.Length; i++)
         {
-            boule[i].SetActive(false);
+            hotspots[i].SetActive(false);
         } 
     }
 }

@@ -1,7 +1,11 @@
 using UnityEngine;
 public class Navigation : MonoBehaviour
 {
+    [Header("Caméra principale")]
+    [Tooltip("On référence la caméra")]
     public Camera cam;
+    [Header("Vérification")]
+    [Tooltip("On vérifie si il y a maintient du clique de la souris")]
     public bool isDragging = false;
 
     float startMouseX;
