@@ -5,7 +5,7 @@ using UnityEngine;
 public class Disable : MonoBehaviour
 {
     [Header("List")]
-    [Tooltip("On Liste les GameObjects qui a pour tag 'boule' au lancement")]
+    [Tooltip("On Liste les GameObjects qui ont pour tag 'boule' au lancement")]
     public GameObject[] hotspots;
     void Start()
     {

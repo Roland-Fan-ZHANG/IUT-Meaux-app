@@ -39,6 +39,7 @@ public class Transition : MonoBehaviour
         {
             currentMap.gameObject.SetActive(false);
             currentSphere.gameObject.SetActive(false);
+
             nextSphere.gameObject.SetActive(true);
             nextMap.gameObject.SetActive(true);
 
@@ -48,6 +49,7 @@ public class Transition : MonoBehaviour
         {
             currentMap.gameObject.SetActive(true);
             currentSphere.gameObject.SetActive(true);
+
             nextSphere.gameObject.SetActive(false);
             nextMap.gameObject.SetActive(false);
     }
