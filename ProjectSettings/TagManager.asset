@@ -6,6 +6,7 @@ TagManager:
   tags:
   - boule
   - Minimap
+  - Arrow
   layers:
   - Default
   - TransparentFX
