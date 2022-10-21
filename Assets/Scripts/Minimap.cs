@@ -11,6 +11,7 @@ public class Minimap : MonoBehaviour
     [Header("Reduire la carte")]
     public GameObject reduce;
 
+    [Header("List current arrows")]
     public GameObject[] arrows;
 
 /*    public void Start()
@@ -28,15 +29,11 @@ public class Minimap : MonoBehaviour
 
     public void Grow()
     {
-        arrows = GameObject.FindGameObjectsWithTag("Arrow");
+        arrows = GameObject.FindGameObjectsWithTag("Arrow");        //check current arrows
         for (int i = 0; i < arrows.Length; i++)
         {
-            arrows[i].SetActive(false);
+            arrows[i].SetActive(false);     //Disable current arrows
         }
-        /*foreach (GameObject ar in arrows)
-        {
-            ar.SetActive(false);                //check Disable.cs, Disable une liste avec une boucle For ou avec Foreach
-        }*/  
         reduce.SetActive(false);
         grow.SetActive(true);
     }
@@ -44,7 +41,7 @@ public class Minimap : MonoBehaviour
     {
         for (int i = 0; i < arrows.Length; i++)
         {
-            arrows[i].SetActive(true);
+            arrows[i].SetActive(true);      //Enable current arrows
         }
         reduce.SetActive(true);
         grow.SetActive(false);
