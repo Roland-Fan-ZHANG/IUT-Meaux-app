@@ -5,7 +5,7 @@ public class Navigation : MonoBehaviour
     [Tooltip("On référence la caméra")]
     public Camera cam;
     [Header("Vérification")]
-    [Tooltip("On vérifie si il y a maintient du clique de la souris")]
+    [Tooltip("On vérifie si il y a maintien du clique de la souris")]
     public bool isDragging = false;
 
     float startMouseX;
@@ -29,7 +29,6 @@ public class Navigation : MonoBehaviour
             isDragging = false;
         }
     }
-
     void LateUpdate()
     {
         if (isDragging)

@@ -9,6 +9,8 @@ public class Disable : MonoBehaviour
     public GameObject[] hotspots;
     void Start()
     {
+        Application.targetFrameRate = 30;
+
         hotspots = GameObject.FindGameObjectsWithTag("boule");
         for (int i = 0; i < hotspots.Length; i++)
         {

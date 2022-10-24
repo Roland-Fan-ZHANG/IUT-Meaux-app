@@ -14,14 +14,6 @@ public class Minimap : MonoBehaviour
     [Header("List current arrows")]
     public GameObject[] arrows;
 
-/*    public void Start()
-    {
-        arrows = GameObject.FindGameObjectsWithTag("Arrow");
-        for (int i = 0; i < arrows.Length; i++)
-        {
-            arrows[i].SetActive(false);
-        }
-    }*/
     void LateUpdate()
     {
         transform.rotation = Quaternion.Euler(0f, player.eulerAngles.y * -1f, 0f);
@@ -32,7 +24,7 @@ public class Minimap : MonoBehaviour
         arrows = GameObject.FindGameObjectsWithTag("Arrow");        //check current arrows
         for (int i = 0; i < arrows.Length; i++)
         {
-            arrows[i].SetActive(false);     //Disable current arrows
+            arrows[i].SetActive(false);                             //Disable current arrows
         }
         reduce.SetActive(false);
         grow.SetActive(true);
@@ -41,7 +33,7 @@ public class Minimap : MonoBehaviour
     {
         for (int i = 0; i < arrows.Length; i++)
         {
-            arrows[i].SetActive(true);      //Enable current arrows
+            arrows[i].SetActive(true);                              //Enable current arrows
         }
         reduce.SetActive(true);
         grow.SetActive(false);
