@@ -4,7 +4,7 @@ Une application mobile entamé lors d'un stage de fin d'étude. Créer une visit
 ## Prérequis
 1. Installer UnityHub (gestionnaire de projets Unity)
 2. Installer une version LTS de Unity (Long Term Support)
-3. Ajouter le module Android (Android Build Support)
+3. Ajouter le module Android (Optionnel si vous ne faites pas d'export)
 
 ## Mise en place du projet Unity sur votre machine 
 1. Cloner le projet 
