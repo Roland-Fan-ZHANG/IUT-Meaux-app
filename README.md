@@ -9,4 +9,5 @@ Une application Android entamé lors d'un stage de fin d'étude. Créer une visi
 5. Appuyer sur le bouton Play en haut de l'éditeur ou CTRL+P
 
 ## Exporter une version Android sur votre téléphone
+1. ...
 
