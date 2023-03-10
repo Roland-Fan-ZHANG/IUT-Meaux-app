@@ -4,4 +4,4 @@ Une application Android entamé lors d'un stage de fin d'étude. Créer une visi
 ## Mise en place du projet Unity
 1. Cloner le projet 
 2. Lancer UnityHub
-3. Ouvrir le projet via UnityHub
+3. Ouvrir le dossier du projet via UnityHub
