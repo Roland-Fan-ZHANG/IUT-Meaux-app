@@ -1,5 +1,5 @@
 # ANDROID VERSION, IUT de Meaux
-Une application Android entamé lors d'un stage de fin d'étude. Créer une visite virtuelle en reprenant le concept de Google Street View, pouvoir naviguer et visiter l'IUT de Meaux.
+Une application mobile entamé lors d'un stage de fin d'étude. Créer une visite virtuelle en reprenant le concept de Google Street View, pouvoir naviguer et visiter l'IUT de Meaux.
 
 ## Prérequis
 1. Installer UnityHub (gestionnaire de projets Unity)
