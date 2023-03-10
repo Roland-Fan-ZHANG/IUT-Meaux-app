@@ -18,7 +18,7 @@ Une application mobile entamé lors d'un stage de fin d'étude. Créer une visit
 2. Ajouter la scene en cliquant sur 'Add Open Scenes' si ce n'est pas le cas
 3. Changer de platforme en cliquant sur Android puis 'Switch Platform' enfin 'Build'
 ### BONUS
-Il est possible d'exporter sous d'autres formats, il faudra simplement installer les modules en question puis changer la platforme.
+Il est possible d'exporter sous d'autres formats, il faudra installer les modules en question puis changer la platforme.
 
 ## Pourquoi Android ?
 ...
