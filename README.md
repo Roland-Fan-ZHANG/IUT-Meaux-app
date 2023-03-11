@@ -7,7 +7,7 @@ Une application mobile entamé lors d'un stage de fin d'étude. Créer une visit
 3. Ajouter le module Android (optionnel si vous ne faites pas d'export)
 
 ## Mise en place du projet Unity sur votre machine 
-1. Cloner le projet via Github Desktop ou télécharger en ZIP
+1. Cloner le projet via Github Desktop ou télécharger en ZIP puis l'extraire
 2. Lancer UnityHub
 3. Ouvrir le dossier du projet via UnityHub 
 4. Depuis l'éditeur Unity, lancer la scene 'Navigation' dans le dossier 'Scenes' si ce n'est pas le cas
