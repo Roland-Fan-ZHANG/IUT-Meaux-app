@@ -2,7 +2,8 @@
 Une application mobile entamé lors d'un stage de fin d'étude. Créer une visite virtuelle en reprenant le concept de Google Street View, pouvoir naviguer et visiter l'IUT de Meaux.
 
 ## Prérequis
-1. Installer UnityHub (gestionnaire de projets et d'installations Unity)
+
+- Installer UnityHub (gestionnaire de projets et d'installations Unity)
 2. Installer une version LTS de Unity (Long Term Support)
 3. Ajouter le module Android (optionnel si vous ne faites pas d'export)
 
