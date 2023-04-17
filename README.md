@@ -22,5 +22,5 @@ Une application mobile multiplateforme entamé lors d'un stage de fin d'étude. 
 Il est possible d'exporter sous d'autres formats, il faudra installer les modules en question puis changer la platforme.
 
 ## Pourquoi Android ?
-Le système d'exploitation Android permet de tester nos projets bien plus facilement comparé à iOS par exemple. Mon choix c'est donc porté sur le mobile car il y a plus d'intérêt de déploiement selon moi.
+Le système d'exploitation Android permet de tester nos projets bien plus facilement comparé à iOS par exemple. Mon choix c'est donc porté sur le mobile car il y a plus d'intérêt de déploiement.
 
