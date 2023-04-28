@@ -1,5 +1,5 @@
-# ANDROID VERSION, IUT de Meaux
-Une application mobile multiplateforme entamé lors de mon stage en DUT MMI. Créer une visite virtuelle en reprenant le concept de Google Street View, pouvoir naviguer et visiter l'IUT de Meaux.
+# IUT de Meaux APP
+Une application multiplateforme entamé lors de mon stage en DUT MMI. Créer une visite virtuelle en reprenant le concept de Google Street View, pouvoir naviguer et visiter l'IUT de Meaux.
 
 ## Prérequis
 
