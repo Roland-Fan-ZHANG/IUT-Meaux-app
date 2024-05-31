@@ -18,9 +18,3 @@ Visite virtuelle en reprenant le concept de Google Street View, pouvoir naviguer
 - Depuis l'éditeur, aller sur l'onglet 'File' puis 'Build Settings'
 - Ajouter la scene en cliquant sur 'Add Open Scenes' si ce n'est pas le cas
 - Changer de platforme en cliquant sur Android puis 'Switch Platform' enfin 'Build'
-### BONUS
-Il est possible d'exporter sous d'autres plateformes, il faudra installer les modules en question puis changer la platforme.
-
-## Pourquoi Android ?
-Le système d'exploitation Android permet de tester nos projets bien plus facilement comparé à iOS par exemple. Mon choix c'est donc porté sur le mobile car il y a plus d'intérêt de déploiement.
-
