@@ -8,9 +8,8 @@ Visite virtuelle en reprenant le concept de Google Street View, pouvoir naviguer
 - Ajouter le module Android (optionnel si vous ne faites pas d'export)
 
 ## Mise en place du projet Unity sur votre machine 
-- Cloner le projet via Github Desktop ou télécharger en ZIP puis l'extraire
-- Lancer UnityHub
-- Ouvrir le dossier du projet via UnityHub 
+- Cloner le projet ou télécharger en ZIP puis l'extraire
+- Lancer et ouvrir le projet via UnityHub
 - Depuis l'éditeur Unity, lancer la scene 'Navigation' dans le dossier 'Scenes' si ce n'est pas le cas
 - Pour tester, appuyer sur le bouton Play en haut de l'éditeur ou CTRL+P
 
