@@ -7,13 +7,13 @@ Visite virtuelle en reprenant le concept de Google Street View, pouvoir naviguer
 - Installer une version LTS de Unity (Long Term Support)
 - Ajouter le module Android (optionnel si vous ne faites pas d'export)
 
-## Mise en place du projet Unity sur votre machine 
+## Mise en place du projet Unity
 - Cloner le projet ou télécharger en ZIP puis l'extraire
 - Lancer et ouvrir le projet via UnityHub
 - Depuis l'éditeur Unity, lancer la scene 'Navigation' dans le dossier 'Scenes' si ce n'est pas le cas
 - Pour tester, appuyer sur le bouton Play en haut de l'éditeur ou CTRL+P
 
-## Exporter une version Android pour votre téléphone
+## Exporter une version Android
 - Depuis l'éditeur, aller sur l'onglet 'File' puis 'Build Settings'
 - Ajouter la scene en cliquant sur 'Add Open Scenes' si ce n'est pas le cas
 - Changer de platforme en cliquant sur Android puis 'Switch Platform' enfin 'Build'
